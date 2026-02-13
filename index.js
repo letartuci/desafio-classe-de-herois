@@ -39,7 +39,7 @@ const monge = new Heroi("Lee Sin", 35, "monge");
 const ninja = new Heroi("Hanzo", 30, "ninja");
 
 
-mago.atacar();      // Saída: o mago atacou usando magia
-guerreiro.atacar(); // Saída: o guerreiro atacou usando espada
-monge.atacar();     // Saída: o monge atacou usando artes marciais
-ninja.atacar();     // Saída: o ninja atacou usando shuriken
+mago.atacar();      
+guerreiro.atacar(); 
+monge.atacar();     
+ninja.atacar();     
